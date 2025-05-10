@@ -12,13 +12,13 @@ CodeAlpha Word Counter is a Java-based application designed to efficiently count
 
 ## How to Use
 1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/MohammadhRimaz/CodeAlpha_Word_Counter.git
-   ```
+```bash
+git clone https://github.com/MohammadhRimaz/CodeAlpha_Word_Counter.git
+```
 2. Navigate to the project directory:
-  ```bash
-     cd CodeAlpha_Word_Counter
-  ```
+```bash
+cd CodeAlpha_Word_Counter
+```
 3. Compile and run the Java program:
 ```bash
 javac WordCounter.java
