@@ -9,6 +9,8 @@ CodeAlpha Word Counter is a Java-based application designed to efficiently count
 
 ## Technologies Used
 - **Java**: The application is entirely built using Java, ensuring cross-platform compatibility and robust performance.
+- **Java Swing**: The UI parts are designed.
+- **Apache Netbeans**: The IDE used develope this project.
 
 ## How to Use
 1. Clone the repository to your local machine:
